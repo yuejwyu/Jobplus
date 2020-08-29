@@ -1,2 +1,2 @@
 # Jobplus
-A Personalized Job Recommendation Engine
+A Java Servlet based Personalized Job Recommendation Engine

@@ -5,7 +5,7 @@ import java.sql.Statement;
 import java.sql.Connection;
 
 public class MySQLTableCreation {
-		// Run this as Java application to reset the database.
+	// Run this as Java application to reset the database.
 		public static void main(String[] args) {
 			try {
 				// Step 1 Connect to MySQL.
